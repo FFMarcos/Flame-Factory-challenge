@@ -43,7 +43,7 @@ You can request data using the following endpoint:
 
 This route by itself will respond with all the images available or a server error!. You can use this endpoint with some parameters:
 
-- `_limit=N`: how many objects we want to get with each request ( `N` is the number of objects we want to fetch)
+- `_limit=N`: how many objects we want to get with each request ( `N` is the number of images  we want to fetch)
 
 For example, if you want to fetch only 10 images we would do:
 
