@@ -24,9 +24,8 @@ There's a problem though. The server is a bit unstable, so it might fail respond
 
 We'd like to see how you handle this scenario.
 
-## Technologies used <a name = "instructions"></a>
+## Instructions used <a name = "instructions"></a>
 
-**Instructions:**
 
 The app should be intuitive and easy to use. It should display an infinite scroll of the the images from the data set in a clear way, and also we'd love to see some design using all the data in the response. such as the thumbnail, title, etc.
 
@@ -65,3 +64,4 @@ That's all the requirements we're going to give you, the rest is up to your crea
 - How will you handle the backend errors, such as the 'Internal Server Error' ?
 - How will you retry the fetch if it fails ?
 - Using Tailwind is a plus !
+- Anything else that could be interesting to implement, we'd love to see it!
