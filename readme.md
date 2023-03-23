@@ -61,7 +61,7 @@ That's all the requirements we're going to give you, the rest is up to your crea
 
 ## Things that are interesting to see how you resolve ( optional )
 
-- What will happen when we fetch all the data ?
-- How will you handle the backend errors ?
+- What will happen when we fetch all the data  and reach the botom of the page?
+- How will you handle the backend errors, such as the 'Internal Server Error' ?
 - How will you retry the fetch if it fails ?
 - Using Tailwind is a plus !
